@@ -26,7 +26,7 @@ Local file `alfresco.log` is capturing command logs. The log file includes activ
 
 Sample bash scripts for testing purposes are provided:
 
-* [create-update.sh][create-update.sh] creates 1,000 local files, upload the files to Alfresco Repository and update some properties for each of these files in the Repository
+* [create-update.sh](create-update.sh) creates 1,000 local files, upload the files to Alfresco Repository and update some properties for each of these files in the Repository
 
 >> Before running the script, running Alfresco server in specified URL (e.g. http://localhost:8080/alfresco) is required 
 
